@@ -1,0 +1,19 @@
+.inputField {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.inputTitle {
+  padding: 14px;
+  outline: none;
+  font-size: 22px;
+  border: 1px solid rgba(168, 168, 168, 0.747);
+}
+
+.addButton {
+  font-size: 20px;
+  padding: 11px 20px;
+  background-color: black;
+  color: white;
+}
